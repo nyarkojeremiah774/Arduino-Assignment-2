@@ -34,4 +34,4 @@ plays a longer tone to signal completion.
 
 
 ## Author
-Aaron Andoh Dadson Baidoo - 2526401387
+Jeremiah Nyarko - =2526404801
